@@ -46,3 +46,17 @@ C:\Users\User\Desktop\CourseWorkMMO-master\DX\obj\Debug\DX.Properties.Resources.
 C:\Users\User\Desktop\CourseWorkMMO-master\DX\obj\Debug\DX.csproj.GenerateResource.Cache
 C:\Users\User\Desktop\CourseWorkMMO-master\DX\obj\Debug\DX.exe
 C:\Users\User\Desktop\CourseWorkMMO-master\DX\obj\Debug\DX.pdb
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\bin\Debug\DX.exe.config
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\bin\Debug\DX.exe
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\bin\Debug\DX.pdb
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\bin\Debug\SharpDX.dll
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\bin\Debug\SharpDX.xml
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\bin\Debug\Tao.FreeGlut.xml
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\bin\Debug\Tao.OpenGl.xml
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\obj\Debug\DX.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\obj\Debug\DX.Form1.resources
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\obj\Debug\DX.Properties.Resources.resources
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\obj\Debug\DX.csproj.GenerateResource.Cache
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\obj\Debug\DX.exe
+C:\Users\R\Desktop\new db\CourseWorkMMO\DX\obj\Debug\DX.pdb
